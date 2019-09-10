@@ -1,2 +1,1 @@
-# JavaScript-Challange
-Unit 14-Intro To JavaScript
+Unit 14-JavaScript and DOM Manipulation
